@@ -39,6 +39,7 @@ group :development, :test do
 	gem 'guard-rspec', '2.5.0'
 	gem 'spork-rails', '4.0.0'
 	gem 'childprocess'
+	gem 'factory_girl_rails', '4.2.0'
 end
 
 group :test do
